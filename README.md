@@ -1,6 +1,6 @@
 # East vs West – iOS Game (Storyboard-based)
 
-[🎥 Watch the video](FinalVideo.mp4)
+[🎥 Watch the video](https://github.com/Adirdavi/HomeWork_iOS/blob/main/FinalVideo.MP4)
 
 **East vs West** is an iOS card game based on the user's geographic location, developed using UIKit and Storyboard. The game automatically assigns the player to a side (East or West) and pits them against the computer in a series of card battles.
 
